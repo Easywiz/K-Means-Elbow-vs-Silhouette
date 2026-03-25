@@ -2,7 +2,7 @@
 
 > A machine learning tutorial for the Machine Learning & Neural Networks course.
 
-**Author:** [Your Name]  
+**Author:** [Israel Ajayi]  
 **Course:** Machine Learning & Neural Networks  
 **Submission format:** PDF Tutorial + Jupyter Notebook
 
