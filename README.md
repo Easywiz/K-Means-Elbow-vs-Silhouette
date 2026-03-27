@@ -49,7 +49,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/[your-username]/kmeans-tutorial.git
+   git clone https://github.com/Easywiz/kmeans-tutorial.git
    cd kmeans-tutorial
    ```
 
